@@ -63,7 +63,10 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
 
 
 
+
+
 Let's connect 👨‍💻 and forge the future together.😁✌
+
 
 
 
@@ -72,6 +75,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 
 :star: From [Shaharyar](https://github.com/Shaharyar07)
+
 
 
 [website]: https://shaharyar07.github.io/my-portfolio/#/
