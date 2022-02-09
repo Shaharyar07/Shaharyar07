@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/70062821/153251910-f1620bc0-13a1-40a2-a8ec-0af2306fca71.png)
 
 
-I am a Full-stack Web Developer who is exploring, facilitating the world with user experience with my Design, Thinking Skills and Enthusiast about web developement.
+I am a Full-stack Web Developer who is exploring, facilitating the world with my contributions.
  
  
  
@@ -69,7 +69,10 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
+
+
 :star: From [Shaharyar](https://github.com/Shaharyar07)
+
 
 [website]: https://shaharyar07.github.io/my-portfolio/#/
 [instagram]: https://www.instagram.com/chsherryy/
