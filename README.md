@@ -44,10 +44,7 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaharyar07&show_icons=true&hide_border=true)
 
-
----
 
 
 
@@ -74,6 +71,8 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaharyar07&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
+
+---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
