@@ -62,6 +62,19 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
 
 <br/>
 
+
+
+<h2><i>⚙️ GitHub Analytics</i></h2>
+
+<p align="center">
+<a href="https://github.com/Shaharyar07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaharyar07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shaharyar07&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaharyar07&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
+
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 
