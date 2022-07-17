@@ -14,7 +14,7 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
  
  
  
- 💬 Ask me about Mern Stack Development,Tech-related stuff.
+ 💬 Ask me about Mern Stack Development and Tech-related stuff.
 
 
 ---
