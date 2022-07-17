@@ -9,7 +9,7 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
  
  
  
- 🌱 I’m currently working in Mern stack.
+ 🌱 I’m currently working in Mern Stack.
  
  
  
