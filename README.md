@@ -18,7 +18,7 @@ I am a Mern-stack and BlockChain Application Developer who is exploring, facilit
 Talk to me about
 - Front-end development using **React, NextJS**
 - Backend development using **Sanity.io Node, Express**
-- Robust full-stack system design implementation
+- Decentralized Blockchain Applications
 - Mobile application development using **React Native**
 - Machine Learning  using **TensorFlow**
 
