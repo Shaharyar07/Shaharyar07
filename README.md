@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/70062821/153251910-f1620bc0-13a1-40a2-a8ec-0af2306fca71.png)
 
 
-I am a Mern-stack and BlockChain Application Developer who is exploring, facilitating the world with my contributions.
+I am a Mern-stack and Blockchain Application Developer who is exploring, facilitating the world with my contributions.
  
  
  
