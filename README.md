@@ -5,16 +5,22 @@
 ![image](https://user-images.githubusercontent.com/70062821/153251910-f1620bc0-13a1-40a2-a8ec-0af2306fca71.png)
 
 
-I am a Full-stack Web Developer who is exploring, facilitating the world with my contributions.
+I am a Mern-stack and BlockChain Application Developer who is exploring, facilitating the world with my contributions.
  
  
  
- 🌱 I’m currently working in Mern Stack.
+ 🌱 I’m currently working on Blockchain Applications.
  
  
  
  
- 💬 Ask me about Mern Stack Development and Tech-related stuff.
+ ## ⚡ Technologies
+Talk to me about
+- Front-end development using **React, NextJS**
+- Backend development using **Sanity.io Node, Express**
+- Robust full-stack system design implementation
+- Mobile application development using **React Native**
+- Machine Learning  using **TensorFlow**
 
 
 ---
@@ -30,6 +36,8 @@ I am a Full-stack Web Developer who is exploring, facilitating the world with my
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-SQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Tensorflow-f2e33f?style=flat&logo=tensorflow&logoColor=white">
+
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-tailwindcss-5A0FC8?style=flat&logo=tailwindcss&logoColor=ffffff">
