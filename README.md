@@ -18,6 +18,7 @@ I am a Mern-stack and Blockchain Application Developer who is exploring, facilit
 Talk to me about
 - Front-end development using **React, NextJS**
 - Backend development using **Sanity.io Node, Express**
+- Smart Contracts using **Solidity**
 - Decentralized Blockchain Applications
 - Mobile application development using **React Native**
 - Machine Learning  using **TensorFlow**
@@ -27,14 +28,16 @@ Talk to me about
 
 
 ### Tech & Tools Preference
-<img src = "https://img.shields.io/badge/-Ethereum-navy?style=flat&logo=ethereum&logoColor=white"> <img src="https://img.shields.io/badge/-Solidity-gray?style=flat&logo=solidity&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src = "https://img.shields.io/badge/-Ethereum-navy?style=flat&logo=ethereum&logoColor=white"> <img src="https://img.shields.io/badge/-Solidity-gray?style=flat&logo=solidity&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-TailwindCSS-skyblue?style=flat&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-SQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Mocha-brown?style=flat&logo=mocha&logoColor=white">
 <img src="https://img.shields.io/badge/-Tensorflow-f28d3f?style=flat&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
@@ -46,7 +49,7 @@ Talk to me about
 
 
 ### Other Languages I know
-<img src="https://img.shields.io/badge/-Solidity-gray?style=flat&logo=solidity&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Solidity-gray?style=flat&logo=solidity&logoColor=white"> <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
 
