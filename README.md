@@ -17,11 +17,11 @@ I am a Mern-stack and Blockchain Application Developer who is exploring, facilit
  ## ⚡ Technologies
 Talk to me about
 - Front-end development using **React, NextJS**
-- Backend development using **Sanity.io Node, Express and Laravel**
+- Backend development using **Sanity.io Node, Express,Prisma,T3 Stack and Laravel**
 - Smart Contracts using **Solidity**
 - Decentralized Blockchain Applications
 - Mobile application development using **React Native**
-- Machine Learning  using **TensorFlow**
+- Machine Learning  using **TensorFlow/Keras**
 
 ---
 
@@ -43,7 +43,7 @@ Talk to me about
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<a href="https://github.com/ch-Arham">
+<a href="https://github.com/Shaharyar07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaharyar07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shaharyar07&layout=compact&langs_count=8&theme=algolia"/>
 </a>
