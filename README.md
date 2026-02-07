@@ -2,16 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=4000&pause=700&color=FF00AA&center=true&vCenter=true&width=600&lines=Hey!+Shaharyar+here+👋;Full-Stack+Powerhouse+@+ContentStudio;UI/UX+%26+Product+Focused;Vibe+Code+MVPs+Super+Fast;Fast-Paced+%7C+Quick+Iterations+%7C+Pixel-Perfect" alt="Typing SVG" />
 </div>
 
-I am a **product-oriented full-stack developer** specializing in rapid MVP development, pixel-perfect UI/UX, and fast-paced iterations. Currently building scalable, user-focused features at ContentStudio.io.
+I am a **product-oriented full-stack developer** specializing in rapid development, pixel-perfect UI/UX, and fast-paced iterations. Currently building scalable, user-focused features at ContentStudio.io.
 
 🌱 Exploring next-level frontend architectures and high-velocity full-stack workflows.
 
 ## ⚡ Technologies – Talk to me about
 
 - **Frontend** development using **Vue.js**, **React**, **Next.js**
-- **Backend** development using **Express**, **NestJS**, Node, Prisma (Laravel for legacy/occasional projects)
+- **Backend** development using **Express**, **NestJS**, Node, Prisma Laravel
 - **UI/UX** focused product thinking — quick prototypes to polished experiences
-- Decentralized apps & smart contracts using **Solidity** (past exploration)
+- Decentralized apps & smart contracts using **Solidity**
 - Mobile application development using **React Native**
 
 <br />
